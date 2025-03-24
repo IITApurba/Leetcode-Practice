@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/IITApurba/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0137-single-number-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
