@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/IITApurba/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0260-single-number-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
