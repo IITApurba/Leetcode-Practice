@@ -73,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/IITApurba/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0260-single-number-iii) |
+| [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/IITApurba/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
