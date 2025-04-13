@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/IITApurba/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/IITApurba/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0260-single-number-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/IITApurba/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/IITApurba/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/IITApurba/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 ## Binary Search
