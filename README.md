@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/IITApurba/Leetcode-Practice/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Prefix Sum
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/IITApurba/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
+| [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
