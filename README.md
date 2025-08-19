@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/IITApurba/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/IITApurba/Leetcode-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/IITApurba/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0052-n-queens-ii) |
+| [0216-combination-sum-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 ## Memoization
 |  |
 | ------- |
