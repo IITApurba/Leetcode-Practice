@@ -49,6 +49,7 @@ public:
         cols.clear();
         diag1.clear();
         diag2.clear();
+        ans.clear();
         string s(n,'.');
         for(int i=0;i<n;++i)b[i]=s;
         placeQ(0);
