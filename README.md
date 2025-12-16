@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
+| [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/0062-unique-paths) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
