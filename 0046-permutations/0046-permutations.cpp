@@ -3,7 +3,9 @@ public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<int> cur_perm;
         vector<vector<int>> all_sol;
-        map<int, int> mp;
+        // Use unordered_map instead of map for O(1) average lookup/insert
+        // instead of O(log n) for each operation
+        unordered_map<int, int> mp;
         int n = nums.size();
 
         for (int num : nums)
