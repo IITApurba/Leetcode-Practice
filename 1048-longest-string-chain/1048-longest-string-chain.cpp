@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool pred(const string &a, const string &b) {
-        if ((int)b.size() != (int)a.size() + 1) return false;
+        if (b.size() != a.size() + 1) return false;
         int i = 0, j = 0;
         bool used = false;
-        while (i < (int)a.size() && j < (int)b.size()) {
+        while (i < a.size() && j < (int)b.size()) {
             if (a[i] == b[j]) {
                 i++; j++;
             } else {
                 if (used) return false;
                 used = true;
-                j++; // skip inserted char in b
+                j++;
             }
         }
         return true;
@@ -26,15 +26,16 @@ public:
         vector<int> dp(n, -1);
 
         function<int(int)> rec = [&](int i) -> int {
-            int &res = dp[i];
-            if (res != -1) return res;
-            res = 1;
+
+            if (dp[i] != -1) return dp[i];
+
+            int ans = 1;
             for (int j = 0; j < i; j++) {
                 if (words[j].size() + 1 == words[i].size() && pred(words[j], words[i])) {
-                    res = max(res, rec(j) + 1);
+                    ans = max(ans, rec(j) + 1);
                 }
             }
-            return res;
+            return dp[i] = ans;
         };
 
         int ans = 0;
