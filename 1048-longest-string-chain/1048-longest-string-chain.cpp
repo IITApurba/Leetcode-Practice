@@ -43,7 +43,7 @@ public:
             // from j<i 
             for (int j = 0; j < i; j++) {
                 // words[j] is a valid predecessor of words[i]
-                if (words[j].size() + 1 == words[i].size() && pred(words[j], words[i])) {
+                if (pred(words[j], words[i])) {
                     // dp[i] = max(dp[i], rec(j) + 1)
                     ans = max(ans, rec(j) + 1);
                 }
