@@ -1,18 +1,18 @@
 class Solution {
 public:
-    // constraints: hi <= 1000, but collatz values can go higher
-    // use fixed array dp for a safe upper bound.
-    // For x <= 1000, the sequence peak stays well below 1e6 in practice,
-    // so dp[1e6+5] is safe for LeetCode constraints.
+
     static const int MX = 1000000;
     int dp[MX + 1];
 
     int pw(int x) {
+        // base case
         if (x == 1) return 0;
+        //save and return
         if (x <= MX && dp[x] != -1) return dp[x];
 
-        long long nx = (x % 2 == 0) ? (x / 2LL) : (3LL * x + 1);
-        int ans = 1 + pw((int)nx);
+        //transition
+        int nx = (x % 2 == 0) ? (x / 2LL) : (3LL * x + 1);
+        int ans = 1 + pw(nx);
 
         if (x <= MX) dp[x] = ans;
         return ans;
