@@ -4,13 +4,16 @@ public:
     string s;
     vector<vector<int>> nx; // nx[pos][c]
 
-    int rec(int pos, int j, const string &w) {
-        if (j == (int)w.size()) return 1;
-        if (pos > n) return 0;
+    int rec(int pos, int j, const string& w) {
+        if (j == (int)w.size())
+            return 1;
+        if (pos > n)
+            return 0;
 
         int c = w[j] - 'a';
         int np = nx[pos][c];
-        if (np == -1) return 0;
+        if (np == -1)
+            return 0;
 
         return rec(np + 1, j + 1, w);
     }
@@ -27,12 +30,13 @@ public:
         }
 
         // compress duplicates
-        unordered_map<string,int> mp;
+        unordered_map<string, int> mp;
         mp.reserve(words.size() * 2);
-        for (auto &w : words) mp[w]++;
+        for (auto& w : words)
+            mp[w]++;
 
         int ans = 0;
-        for (auto &it : mp) {
+        for (auto& it : mp) {
             ans += it.second * rec(0, 0, it.first);
         }
         return ans;
