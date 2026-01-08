@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/IITApurba/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/IITApurba/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [2340-total-appeal-of-a-string](https://github.com/IITApurba/Leetcode-Practice/tree/master/2340-total-appeal-of-a-string) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IITApurba/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/IITApurba/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [2340-total-appeal-of-a-string](https://github.com/IITApurba/Leetcode-Practice/tree/master/2340-total-appeal-of-a-string) |
 ## Sliding Window
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/IITApurba/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
 ## Backtracking
@@ -165,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
