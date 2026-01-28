@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/IITApurba/Leetcode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/IITApurba/Leetcode-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/IITApurba/Leetcode-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/IITApurba/Leetcode-Practice/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Prefix Sum
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
 | ------- |
