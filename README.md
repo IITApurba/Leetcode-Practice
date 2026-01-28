@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/IITApurba/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -204,5 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
