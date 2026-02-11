@@ -1,57 +1,51 @@
 class Solution {
 public:
-    vector<vector<string>> solutions; // Stores all valid board configurations
+    int solutionCount = 0;
+    // Use hash sets for O(1) isSafe check instead of O(n) iteration
+    unordered_set<int> cols;           // columns with queens
+    unordered_set<int> diag1;          // main diagonals (row - col)
+    unordered_set<int> diag2;          // anti-diagonals (row + col)
 
-    // Check if it's safe to place a queen at board[row][col]
-    bool isSafe(vector<string>& board, int row, int col, int N) {
-        // Check column
-        for (int i = 0; i < row; i++)
-            if (board[i][col] == 'Q')
-                return false;
-
-        // Check upper-left diagonal
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--)
-            if (board[i][j] == 'Q')
-                return false;
-
-        // Check upper-right diagonal
-        for (int i = row - 1, j = col + 1; i >= 0 && j < N; i--, j++)
-            if (board[i][j] == 'Q')
-                return false;
-
-        return true;
+    // O(1) safety check using hash sets instead of O(n) iteration
+    bool isSafe(int row, int col) {
+        return cols.find(col) == cols.end() &&
+               diag1.find(row - col) == diag1.end() &&
+               diag2.find(row + col) == diag2.end();
     }
 
     // Backtracking function following LCCM framework
-    void solveNQueens(int level, vector<string>& board, int N) {
+    void solveNQueens(int row, int N) {
         // BASE CASE: If all queens are placed
-        if (level == N) {
-            solutions.push_back(board);
+        if (row == N) {
+            solutionCount++;
             return;
         }
 
         // CHOICE: Try placing queen in every column
         for (int col = 0; col < N; col++) {
             // CHECK: Is placing a queen here safe?
-            if (isSafe(board, level, col,N)) {
+            if (isSafe(row, col)) {
                 // MOVE: Place the queen
-                board[level][col] = 'Q';
+                cols.insert(col);
+                diag1.insert(row - col);
+                diag2.insert(row + col);
 
                 // Recur to place the next queen
-                solveNQueens(level + 1, board,N);
+                solveNQueens(row + 1, N);
 
                 // BACKTRACK: Remove the queen and try the next column
-                board[level][col] = '.';
+                cols.erase(col);
+                diag1.erase(row - col);
+                diag2.erase(row + col);
             }
         }
     }
     int totalNQueens(int N) {
-
-        vector<string> board(N, string(N, '.')); // Initialize board with '.'
-
-        solveNQueens(0, board, N);
-
-
-        return solutions.size();
+        cols.clear();
+        diag1.clear();
+        diag2.clear();
+        solutionCount = 0;
+        solveNQueens(0, N);
+        return solutionCount;
     }
 };
