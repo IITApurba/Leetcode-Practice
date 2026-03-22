@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/IITApurba/Leetcode-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2340-total-appeal-of-a-string](https://github.com/IITApurba/Leetcode-Practice/tree/master/2340-total-appeal-of-a-string) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/IITApurba/Leetcode-Practice/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Binary Search
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,8 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 ## Bitmask
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Topological Sort
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
