@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/IITApurba/Leetcode-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/IITApurba/Leetcode-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/IITApurba/Leetcode-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 ## Bitmask
 |  |
@@ -264,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
