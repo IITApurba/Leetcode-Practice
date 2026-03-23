@@ -4,10 +4,10 @@ public:
         int n = grid.size();
         
         if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1) return 0;
-        
+
         vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
         queue<pair<int, int>> q;
-        
+
         for (int r = 0; r < n; ++r) {
             for (int c = 0; c < n; ++c) {
                 if (grid[r][c] == 1) {
