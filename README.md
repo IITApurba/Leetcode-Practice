@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/IITApurba/Leetcode-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/IITApurba/Leetcode-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/IITApurba/Leetcode-Practice/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Prefix Sum
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/IITApurba/Leetcode-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/IITApurba/Leetcode-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,11 +248,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
