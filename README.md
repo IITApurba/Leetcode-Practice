@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/IITApurba/Leetcode-Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/IITApurba/Leetcode-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
 ## Bitmask
 |  |
 | ------- |
@@ -283,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
