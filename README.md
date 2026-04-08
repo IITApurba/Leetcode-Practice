@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/IITApurba/Leetcode-Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
+| [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IITApurba/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/IITApurba/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/IITApurba/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -300,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Game Theory
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 <!---LeetCode Topics End-->
