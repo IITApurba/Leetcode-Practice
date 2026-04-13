@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2699-modify-graph-edge-weights](https://github.com/IITApurba/Leetcode-Practice/tree/master/2699-modify-graph-edge-weights) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Ordered Set
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
+| [2699-modify-graph-edge-weights](https://github.com/IITApurba/Leetcode-Practice/tree/master/2699-modify-graph-edge-weights) |
 ## Bitmask
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2699-modify-graph-edge-weights](https://github.com/IITApurba/Leetcode-Practice/tree/master/2699-modify-graph-edge-weights) |
 ## Game Theory
 |  |
 | ------- |
