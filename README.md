@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/IITApurba/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/IITApurba/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
+## Tree
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
