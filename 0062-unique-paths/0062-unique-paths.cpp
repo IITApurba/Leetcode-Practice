@@ -1,8 +1,9 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-
-        int dp[n][m];
+        // Use std::vector instead of VLA (Variable Length Array)
+        // VLA is a non-standard C++ extension
+        vector<vector<int>> dp(n, vector<int>(m));
 
         dp[0][0]=1;
 
