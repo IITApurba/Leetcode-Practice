@@ -4,25 +4,23 @@
 using namespace std;
 
 class Solution {
+    int mod = 1e9 + 7;
 public:
     int profitableSchemes(int n, int minProfit, vector<int>& group, vector<int>& profit) {
-        int mod = 1e9 + 7;
-        vector<vector<int>> dp(n + 1, vector<int>(minProfit + 1, 0));
+        vector<vector<vector<int>>> dp(group.size(), vector<vector<int>>(n + 1, vector<int>(minProfit + 1, -1)));
+        return rec(0, n, minProfit, group, profit, dp);
+    }
+
+private:
+    int rec(int i, int n, int p, vector<int>& group, vector<int>& profit, vector<vector<vector<int>>>& dp) {
+        if (i == group.size()) return p == 0 ? 1 : 0;
+        if (dp[i][n][p] != -1) return dp[i][n][p];
         
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = 1;
+        int res = rec(i + 1, n, p, group, profit, dp);
+        if (n >= group[i]) {
+            res = (res + rec(i + 1, n - group[i], max(0, p - profit[i]), group, profit, dp)) % mod;
         }
         
-        for (size_t k = 0; k < group.size(); k++) {
-            int g = group[k];
-            int p = profit[k];
-            for (int i = n; i >= g; i--) {
-                for (int j = minProfit; j >= 0; j--) {
-                    dp[i][j] = (dp[i][j] + dp[i - g][max(0, j - p)]) % mod;
-                }
-            }
-        }
-        
-        return dp[n][minProfit];
+        return dp[i][n][p] = res;
     }
 };
