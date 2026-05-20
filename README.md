@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0879-profitable-schemes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0879-profitable-schemes) |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
+| [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/IITApurba/Leetcode-Practice/tree/master/0837-new-21-game) |
 | [0910-nth-magical-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0910-nth-magical-number) |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
+| [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
 | [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
 ## Probability and Statistics
 |  |
 | ------- |
