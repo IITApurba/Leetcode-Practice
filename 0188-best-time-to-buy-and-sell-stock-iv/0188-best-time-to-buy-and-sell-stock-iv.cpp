@@ -7,24 +7,25 @@ class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> memo(n, vector<vector<int>>(k + 1, vector<int>(2, -1)));
-        return dfs(0, k, 0, prices, memo);
+        if (n == 0) return 0;
+        vector<vector<vector<int>>> dp(n, vector<vector<int>>(k + 1, vector<int>(2, -1)));
+        return rec(0, k, 0, prices, dp);
     }
 
 private:
-    int dfs(int i, int k, int holding, vector<int>& prices, vector<vector<vector<int>>>& memo) {
+    int rec(int i, int k, int holding, vector<int>& prices, vector<vector<vector<int>>>& dp) {
         if (k == 0 || i == prices.size()) return 0;
-        if (memo[i][k][holding] != -1) return memo[i][k][holding];
+        if (dp[i][k][holding] != -1) return dp[i][k][holding];
         
-        int skip = dfs(i + 1, k, holding, prices, memo);
+        int skip = rec(i + 1, k, holding, prices, dp);
         int take = 0;
         
         if (holding) {
-            take = prices[i] + dfs(i + 1, k - 1, 0, prices, memo);
+            take = prices[i] + rec(i + 1, k - 1, 0, prices, dp);
         } else {
-            take = -prices[i] + dfs(i + 1, k, 1, prices, memo);
+            take = -prices[i] + rec(i + 1, k, 1, prices, dp);
         }
         
-        return memo[i][k][holding] = max(skip, take);
+        return dp[i][k][holding] = max(skip, take);
     }
 };
