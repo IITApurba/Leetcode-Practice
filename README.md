@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/IITApurba/Leetcode-Practice/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2340-total-appeal-of-a-string](https://github.com/IITApurba/Leetcode-Practice/tree/master/2340-total-appeal-of-a-string) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/IITApurba/Leetcode-Practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/IITApurba/Leetcode-Practice/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Binary Search
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
 | [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/IITApurba/Leetcode-Practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/IITApurba/Leetcode-Practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Probability and Statistics
 |  |
 | ------- |
