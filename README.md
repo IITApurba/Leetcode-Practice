@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
+| [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/IITApurba/Leetcode-Practice/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2340-total-appeal-of-a-string](https://github.com/IITApurba/Leetcode-Practice/tree/master/2340-total-appeal-of-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
 | [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
+| [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/IITApurba/Leetcode-Practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Recursion
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
+| [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/IITApurba/Leetcode-Practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Probability and Statistics
 |  |
