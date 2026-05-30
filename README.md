@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/IITApurba/Leetcode-Practice/tree/master/1105-filling-bookcase-shelves) |
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
+| [1510-stone-game-iv](https://github.com/IITApurba/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/IITApurba/Leetcode-Practice/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/IITApurba/Leetcode-Practice/tree/master/0920-number-of-music-playlists) |
 | [1093-statistics-from-a-large-sample](https://github.com/IITApurba/Leetcode-Practice/tree/master/1093-statistics-from-a-large-sample) |
+| [1510-stone-game-iv](https://github.com/IITApurba/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1610-xor-operation-in-an-array](https://github.com/IITApurba/Leetcode-Practice/tree/master/1610-xor-operation-in-an-array) |
 | [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/IITApurba/Leetcode-Practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
+| [1510-stone-game-iv](https://github.com/IITApurba/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
