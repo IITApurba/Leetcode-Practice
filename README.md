@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/IITApurba/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0552-student-attendance-record-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0552-student-attendance-record-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0808-soup-servings](https://github.com/IITApurba/Leetcode-Practice/tree/master/0808-soup-servings) |
