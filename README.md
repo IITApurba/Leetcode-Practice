@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IITApurba/Leetcode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
+| [2034-stock-price-fluctuation](https://github.com/IITApurba/Leetcode-Practice/tree/master/2034-stock-price-fluctuation) |
 | [2340-total-appeal-of-a-string](https://github.com/IITApurba/Leetcode-Practice/tree/master/2340-total-appeal-of-a-string) |
 ## String
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/IITApurba/Leetcode-Practice/tree/master/1801-number-of-orders-in-the-backlog) |
+| [2034-stock-price-fluctuation](https://github.com/IITApurba/Leetcode-Practice/tree/master/2034-stock-price-fluctuation) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2699-modify-graph-edge-weights](https://github.com/IITApurba/Leetcode-Practice/tree/master/2699-modify-graph-edge-weights) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/IITApurba/Leetcode-Practice/tree/master/2034-stock-price-fluctuation) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -369,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1801-number-of-orders-in-the-backlog](https://github.com/IITApurba/Leetcode-Practice/tree/master/1801-number-of-orders-in-the-backlog) |
+## Design
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/IITApurba/Leetcode-Practice/tree/master/2034-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/IITApurba/Leetcode-Practice/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
