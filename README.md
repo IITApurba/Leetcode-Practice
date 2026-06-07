@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1643-kth-smallest-instructions](https://github.com/IITApurba/Leetcode-Practice/tree/master/1643-kth-smallest-instructions) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/IITApurba/Leetcode-Practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/IITApurba/Leetcode-Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/IITApurba/Leetcode-Practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/IITApurba/Leetcode-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2699-modify-graph-edge-weights](https://github.com/IITApurba/Leetcode-Practice/tree/master/2699-modify-graph-edge-weights) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
+## Simulation
+|  |
+| ------- |
+| [1801-number-of-orders-in-the-backlog](https://github.com/IITApurba/Leetcode-Practice/tree/master/1801-number-of-orders-in-the-backlog) |
 <!---LeetCode Topics End-->
