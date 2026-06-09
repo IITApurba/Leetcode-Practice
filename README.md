@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/IITApurba/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/IITApurba/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0815-bus-routes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0815-bus-routes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/IITApurba/Leetcode-Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0704-binary-search](https://github.com/IITApurba/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/IITApurba/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/IITApurba/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
