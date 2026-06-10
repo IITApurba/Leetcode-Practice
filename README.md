@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-number-of-orders-in-the-backlog](https://github.com/IITApurba/Leetcode-Practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/IITApurba/Leetcode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-build-a-matrix-with-conditions](https://github.com/IITApurba/Leetcode-Practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/IITApurba/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/IITApurba/Leetcode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2594-minimum-time-to-repair-cars](https://github.com/IITApurba/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/IITApurba/Leetcode-Practice/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/IITApurba/Leetcode-Practice/tree/master/1048-longest-string-chain) |
 | [1387-sort-integers-by-the-power-value](https://github.com/IITApurba/Leetcode-Practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/IITApurba/Leetcode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Backtracking
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IITApurba/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/IITApurba/Leetcode-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Union-Find
 |  |
 | ------- |
