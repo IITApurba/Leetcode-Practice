@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0841-keys-and-rooms](https://github.com/IITApurba/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/IITApurba/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/IITApurba/Leetcode-Practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0815-bus-routes) |
+| [0841-keys-and-rooms](https://github.com/IITApurba/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/IITApurba/Leetcode-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0841-keys-and-rooms](https://github.com/IITApurba/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0913-cat-and-mouse](https://github.com/IITApurba/Leetcode-Practice/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/IITApurba/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
