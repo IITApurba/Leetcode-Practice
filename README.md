@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IITApurba/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/IITApurba/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/IITApurba/Leetcode-Practice/tree/master/0547-number-of-provinces) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/IITApurba/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
