@@ -1,38 +1,34 @@
 class Solution {
 public:
-    vector<vector<int>> vis;
-    int dx[4] = {1, 0, -1, 0};
-    int dy[4] = {0, 1, 0, -1};
+    void dfs(vector<vector<char>>& grid, int r, int c) {
+        int m = grid.size();
+        int n = grid[0].size();
 
-    void dfs(int node_i, int node_j, vector<vector<char>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        vis[node_i][node_j] = 1;
+        if (r < 0 || c < 0 || r >= m || c >= n || grid[r][c] != '1')
+            return;
 
-        for (int i = 0; i < 4; i++) {
-            int x = node_i + dx[i];
-            int y = node_j + dy[i];
+        grid[r][c] = '0'; // mark visited
 
-            if (x >= 0 && x < m && y >= 0 && y < n && !vis[x][y] && grid[x][y] == '1') {
-                dfs(x, y, grid);
-            }
-        }
+        dfs(grid, r + 1, c);
+        dfs(grid, r - 1, c);
+        dfs(grid, r, c + 1);
+        dfs(grid, r, c - 1);
     }
 
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
+        int islands = 0;
 
-        vis.assign(m, vector<int>(n, 0));
-
-        int island_no = 0;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (!vis[i][j] && grid[i][j] == '1') {
-                    island_no++;
-                    dfs(i, j, grid);
+                if (grid[i][j] == '1') {
+                    islands++;
+                    dfs(grid, i, j);
                 }
             }
         }
-        return island_no;
+
+        return islands;
     }
 };
