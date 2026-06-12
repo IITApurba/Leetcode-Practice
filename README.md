@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/IITApurba/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/IITApurba/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/IITApurba/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/IITApurba/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/IITApurba/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/IITApurba/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/IITApurba/Leetcode-Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/IITApurba/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IITApurba/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/IITApurba/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IITApurba/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/IITApurba/Leetcode-Practice/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/IITApurba/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/IITApurba/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/IITApurba/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/IITApurba/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/IITApurba/Leetcode-Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1162-as-far-from-land-as-possible](https://github.com/IITApurba/Leetcode-Practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/IITApurba/Leetcode-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IITApurba/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/IITApurba/Leetcode-Practice/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/IITApurba/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/IITApurba/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/IITApurba/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
