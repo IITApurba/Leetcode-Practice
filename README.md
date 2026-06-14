@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IITApurba/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/IITApurba/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/IITApurba/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/IITApurba/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IITApurba/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/IITApurba/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/IITApurba/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/IITApurba/Leetcode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0792-number-of-matching-subsequences](https://github.com/IITApurba/Leetcode-Practice/tree/master/0792-number-of-matching-subsequences) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/IITApurba/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/IITApurba/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/IITApurba/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/IITApurba/Leetcode-Practice/tree/master/0200-number-of-islands) |
