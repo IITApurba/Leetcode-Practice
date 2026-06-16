@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int m = mat.size(), n = mat[0].size();
+
+        
         queue<pair<int, int>> q;
         vector<vector<int>> dist(m, vector<int>(n, -1));
 
